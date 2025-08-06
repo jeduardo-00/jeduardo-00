@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Meu nome é Eduardo, tenho formação como técnico de Edificações e curso Tecnologia da Informação pela UFERSA. Tenho experiência em ensino, programação e projetos
 
 
