@@ -4,7 +4,8 @@ Meu nome é Eduardo, tenho formação como técnico de Edificações e curso Tec
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.eduardoo_00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Eduardo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-eduardo-freitas-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-eduardo-freitas-oliveira/)
+
 
 
 # 💻 Tech Stack:
